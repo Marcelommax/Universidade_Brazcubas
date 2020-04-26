@@ -1,2 +1,2 @@
 # Universidade_Brazcubas
- Material de estudo da Faculdade
+ Material de estudo Faculdade Ciência da Computação
