@@ -1,0 +1,65 @@
+Introdução
+A Disciplina de Projeto Integrador de Competências articula a prática, os saberes, as habilidades e a realidade do mundo do trabalho, ou seja, favorece a formação profissional dos estudantes com a construção das competências requeridas para os profissionais em formação e contempla a interdisciplinaridade entre Disciplinas importantes da Matriz Curricular do Curso de Ciência da Computação.
+
+As Disciplinas envolvidas são Programação de Computadores e Organização e Arquitetura de Computadores.
+
+Projeto Integrador de Competências é uma estratégia pedagógica, de caráter interdisciplinar, constituída de exercícios práticos com problemáticas que envolvem as duas Disciplinas, com o objetivo de integrar conhecimentos que contribuam com a formação.
+
+Diante do cenário apresentado, com o objetivo de aprimorar os conhecimentos adquiridos em Programação de Computadores, na qual se utiliza a ferramenta Scratch para o desenvolvimento de Programas, é indicada a utilização do editor on-line disponível no site: https://scratch.mit.edu/projects/editor/.
+
+Nesse mesmo endereço, é possível acessar os tutoriais com diversos exemplos e vídeos explicativos das diversas possibilidades de Programação utilizando a ferramenta.
+
+Para auxiliar no desenvolvimento da lógica aplicada ao desenvolvimento de Programas e na resolução dos exercícios propostos, sabendo que os conceitos de entrada e saída, de comandos de decisão, de repetição e listas são requeridos, sugere-se a leitura de livros de Lógica de Programação, tais como:
+
+ASCENIO, A. F. G.; CAMPOS, E. A V. Fundamentos da Programação de computadores: algoritmos, pascal, C/C++ e Java. 3.ed. São Paulo: Pearson Education do Brasil, 2012. (E-book);
+
+MANZANO, J. A. N. G. Algoritmos: lógica para desenvolvimento de Programação de Computadores. 28.ed. São Paulo: Érica, 2016;
+
+EDELWEISS, N. Algoritmos e Programação com exemplos em Pascal e C. Porto Alegre: Bookman, 2014.
+
+Com relação à Disciplina de Organização e Arquitetura de Computadores, que explica a história da arquitetura de computadores, veremos também a conversão entre as bases de Sistemas de numeração e cálculos aritméticos com o Sistema de numeração binário, pois as máquinas manipulam o Sistema de numeração binário e as características da função processamento.
+
+Ademais, conceitos relacionados ao processador e à unidade de controle, o que é e para que serve o clock de um computador e algumas instruções da Linguagem Assembly complementam a lista de temas importantes do estudo sobre os vários dispositivos para armazenamento primário e secundário disponíveis e o entendimento de como são construídos e como a evolução da Tecnologia nos permite gravar mais informações sem aumentar o tamanho desses dispositivos.
+
+Assim, recomenda-se a consulta e leitura das seguintes obras:
+
+TANENBAUM, A. S. Organização Estruturada de Computadores. 5.ed. São Paulo: Pearson Prentice Hall, 2007;
+
+PAIXÃO, R. R. Arquitetura de computadores. São Paulo: Erica, 2014;
+
+DELGADO, J.; RIBEIRO, C. Arquitetura de computadores. 5.ed.atual. Rio de Janeiro: LTC, 2017.
+
+
+ATIVIDADES REFLEXIVAS
+
+atividade 1 
+
+O tempo de execução é, geralmente, a unidade de medida usada para determinar o desempenho de um computador. Nesse sentido, devem ser consideradas algumas variáveis, como: a quantidade de processos que estão sendo executados, a quantidade de memória disponível, a velocidade do clock e a quantidade de instruções executadas por ciclo, entre outras.
+
+Resumindo, a medida de desempenho de um computador depende da velocidade de cada um de seus diferentes principais componentes.
+
+Suponha que temos um benchmark que executa uma determinada instrução em 25.000 segundos do tempo do processador. Se este tempo melhorar em 12% ao ano, em quantos segundos ele realizará a mesma ação para N anos? Os anos devem ser digitados pelo usuário.
+
+atividade 2
+
+É muito comum, na Computação, converter um número em uma base numérica para outra, principalmente, quando a conversão envolve as bases 10, 2 e 16.
+
+Na prática, a conversão numérica de números decimais para números binários é realizada por meio de divisões consecutivas. Como?
+
+Dividimos o número da base decimal por 2 até que não seja mais divisível. Ao final, o número binário é o resultado da última divisão ajuntado dos restos das demais divisões, "de baixo para cima".
+
+Assim, faça um Programa em Scracth que receba um número inteiro na base decimal e converta para a base binária, usando o Método de Divisões Sucessivas. (Faça a conversão de pelo menos do número 0 ao 200)
+
+atividade 3
+
+Faça um Programa em Scracth que receba um número inteiro na base decimal e converta para a base hexadecimal, usando o Método de Divisões Sucessivas.  (Faça a conversão de pelo menos do número 0 ao 200)
+
+atividade 4
+
+Desde o desenvolvimento dos computadores 486 até os dias atuais, os processadores usam o clock externo para transferir dados para a memória RAM e dispositivos de entrada e saída.
+
+É usado um chip controlador na placa-mãe, chamado de “ponte norte”, que tem a finalidade de adequar a velocidade entre diferentes barramentos da placa-mãe. Por exemplo, em um Pentium 4 de 3 GHz, a velocidade de 3 GHz refere-se ao clock interno do processador, que é obtido quando multiplicamos por 15 seu clock externo de 200 MHz.
+
+Assim, faça um Programa em Scracth que solicite ao usuário o valor do clock externo em MHz e o valor do multiplicador.
+
+Calcule e mostre a velocidade do clock interno em GHz.
