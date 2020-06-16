@@ -6,7 +6,7 @@ Grade
 
 Disciplina	Carga Horária	Cursada em	Status
 
-# [checkbox:checked][APLICAÇÕES PARA INTERNET	80]( -----> ok)
+checked # [checkbox:checked][APLICAÇÕES PARA INTERNET	80]( -----> ok)
 
 [][PROGRAMAÇÃO DE COMPUTADORES	40] -----> ok
 
