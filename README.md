@@ -6,9 +6,9 @@ Grade
 
 Disciplina	Carga Horária	Cursada em	Status
 
-APLICAÇÕES PARA INTERNET	80 -----> ok
+[x][APLICAÇÕES PARA INTERNET	80] -----> ok
 
-PROGRAMAÇÃO DE COMPUTADORES	40 -----> ok
+[][PROGRAMAÇÃO DE COMPUTADORES	40] -----> ok
 
 PENSAMENTO COMPUTACIONAL	40 -----> ok
 
